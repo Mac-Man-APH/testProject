@@ -1,4 +1,4 @@
-// This is JUST a test project
+// This is JUST a simple project XXX
 #include <Metro.h> 
 #include <Wire.h>
 #include <RTClib.h>
