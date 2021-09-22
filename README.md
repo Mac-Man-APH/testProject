@@ -1,2 +1,2 @@
 # testProject
-Just a test project
+Just a simple project
